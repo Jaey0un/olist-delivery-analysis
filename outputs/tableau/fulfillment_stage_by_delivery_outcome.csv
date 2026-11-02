@@ -1,0 +1,9 @@
+delivery_outcome,stage_name,eligible_order_count,excluded_order_count,p50_hours,p75_hours,p90_hours
+Late,Approval to carrier handover,6506,25,73.5631944444,150.2483333333,335.2094444444
+Late,Carrier handover to customer delivery,6530,1,628.8815277778,839.6011805556,1074.7107222222
+Late,Purchase to approval,6531,0,0.4047222222,19.0190277778,38.1480555556
+Late,Purchase to customer delivery,6531,0,749.9161111111,960.2245833333,1197.5105555556
+On time,Approval to carrier handover,88332,1340,42.8720833333,82.2468055556,137.0608333333
+On time,Carrier handover to customer delivery,89653,19,166.8138888889,262.8111111111,366.1951111111
+On time,Purchase to approval,89658,14,0.3386111111,14.0697916667,34.2778333333
+On time,Purchase to customer delivery,89672,0,235.2195833333,342.5400694444,470.8741111111

@@ -1,0 +1,13 @@
+geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geolocation_state
+1000,-23.5505,-46.6333,alpha,SP
+1001,-23.5400,-46.6200,beta,SP
+1002,-22.9068,-43.1729,gamma,RJ
+1003,-19.9167,-43.9345,delta,MG
+1004,-23.5600,-46.6400,epsilon,SP
+1005,-12.9777,-38.5016,zeta,BA
+1006,-23.5700,-46.6500,eta,SP
+1007,-22.9200,-43.1800,theta,RJ
+2000,-23.5000,-46.6000,seller_alpha,SP
+2001,-22.9000,-43.1700,seller_beta,RJ
+2002,-19.9200,-43.9400,seller_gamma,MG
+2003,-23.5100,-46.6100,seller_delta,SP

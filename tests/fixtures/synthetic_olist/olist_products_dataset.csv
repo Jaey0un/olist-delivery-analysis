@@ -1,0 +1,4 @@
+product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+PRODUCT_A,category_a,10,100,1,100,10,10,10
+PRODUCT_B,category_b,20,200,2,200,20,20,20
+PRODUCT_C,,30,300,1,300,30,30,30

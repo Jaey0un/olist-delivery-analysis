@@ -1,0 +1,12 @@
+# Local environment and caches
+.DS_Store
+.env
+.venv/
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw data and the generated database
+data/raw/*.csv
+database/*.duckdb*

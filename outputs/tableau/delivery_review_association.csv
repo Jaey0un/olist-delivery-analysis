@@ -1,0 +1,5 @@
+delivery_group,delivery_sla_eligible_count,reviewed_order_count,review_response_coverage,average_review_score,low_review_rate
+On time,89672,89182,0.994535641,4.2911574084,0.0924738176
+Late 1-3 days,1869,1851,0.9903691814,3.2906537007,0.321447866
+Late 4-7 days,1802,1748,0.9700332963,2.1029748284,0.6767734554
+Late 8+ days,2860,2779,0.9716783217,1.6966534725,0.7927311983

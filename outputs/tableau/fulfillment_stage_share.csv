@@ -1,0 +1,4 @@
+stage_name,eligible_order_count,average_stage_share,p50_stage_share,p90_stage_share
+Approval to carrier handover,94820,0.2546003235,0.1950893733,0.5665531905
+Carrier handover to customer delivery,94820,0.7055819903,0.7587843236,0.9346772479
+Purchase to approval,94820,0.0398176862,0.0019914796,0.1349571473

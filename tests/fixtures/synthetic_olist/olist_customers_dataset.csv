@@ -1,0 +1,9 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+CUST_A,UNIQUE_A,1000,alpha,SP
+CUST_B,UNIQUE_B,1001,beta,SP
+CUST_C,UNIQUE_C,1002,gamma,RJ
+CUST_D,UNIQUE_D,1003,delta,MG
+CUST_E,UNIQUE_E,1004,epsilon,SP
+CUST_F,UNIQUE_F,1005,zeta,BA
+CUST_G,UNIQUE_G,1006,eta,SP
+CUST_H,UNIQUE_H,1007,theta,RJ

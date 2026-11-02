@@ -1,0 +1,4 @@
+population_name,population_grain,seller_attribution_reliable,candidate_count,eligible_count,breach_count,interpretation,excluded_count,breach_rate,observation_coverage
+DELIVERED_ONLY_SINGLE_SELLER,order_seller,true,94939,94937,8531,Sensitivity view restricted to delivered orders,2,0.0898595911,0.9999789338
+MULTI_SELLER_OBSERVABLE,order_seller,false,2614,2614,113,Multi-seller orders; individual seller attribution unavailable,0,0.0432287682,1.0
+PRIMARY_SINGLE_SELLER,order_seller,true,96631,96032,8652,Main analysis group,599,0.0900949683,0.9938011611

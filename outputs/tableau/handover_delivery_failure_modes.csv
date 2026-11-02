@@ -1,0 +1,5 @@
+failure_mode,order_count,average_review_score,reviewed_order_count
+Handover met / Delivery on time,81692,4.3298058229,81266
+Handover breached / Delivery on time,6721,4.0854572714,6670
+Handover met / Delivery late,4708,2.2722137736,4603
+Handover breached / Delivery late,1809,2.267877412,1762

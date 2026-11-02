@@ -1,0 +1,5 @@
+stage_name,eligible_order_count,excluded_order_count,p50_hours,p75_hours,p90_hours
+Purchase to approval,98957,135,0.3419444444,14.4852777778,34.5964444444
+Approval to carrier handover,96003,3089,44.2797222222,86.3580555556,143.8898333333
+Carrier handover to customer delivery,96184,2908,170.5054166667,288.8590972222,453.87075
+Purchase to customer delivery,96204,2888,245.0416666667,376.3861111111,553.5521944444

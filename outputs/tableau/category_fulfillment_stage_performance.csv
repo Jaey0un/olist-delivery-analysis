@@ -1,0 +1,297 @@
+category_name,stage_name,eligible_order_count,excluded_order_count,p50_hours,p75_hours,p90_hours
+agro_industry_and_commerce,Purchase to approval,182,0,0.9386111111,23.9577083333,39.46025
+agro_industry_and_commerce,Approval to carrier handover,179,3,37.0752777778,73.3602777778,125.1198333333
+agro_industry_and_commerce,Carrier handover to customer delivery,177,5,167.9022222222,271.2119444444,386.8715
+agro_industry_and_commerce,Purchase to customer delivery,177,5,220.2419444444,342.3108333333,473.4308888889
+air_conditioning,Purchase to approval,248,0,0.3833333333,17.5120833333,37.5166666667
+air_conditioning,Approval to carrier handover,241,7,44.7805555556,79.6022222222,152.66
+air_conditioning,Carrier handover to customer delivery,242,6,160.4034722222,244.223125,385.5965555556
+air_conditioning,Purchase to customer delivery,242,6,218.485,339.8052777778,507.2779722222
+art,Purchase to approval,202,0,0.4155555556,19.4420138889,42.6050555556
+art,Approval to carrier handover,196,6,65.1226388889,128.18875,178.4143055556
+art,Carrier handover to customer delivery,195,7,144.0622222222,236.2463888889,394.8462777778
+art,Purchase to customer delivery,195,7,228.0961111111,356.23125,497.3017222222
+arts_and_craftmanship,Purchase to approval,23,0,14.8797222222,22.9876388889,45.965
+arts_and_craftmanship,Approval to carrier handover,22,1,20.5693055556,44.7255555556,103.1507222222
+arts_and_craftmanship,Carrier handover to customer delivery,23,0,68.7247222222,110.1576388889,161.6308333333
+arts_and_craftmanship,Purchase to customer delivery,23,0,128.0663888889,175.9480555556,193.9316111111
+audio,Purchase to approval,348,0,0.3881944444,15.2915972222,31.7053611111
+audio,Approval to carrier handover,343,5,49.3297222222,84.58375,129.7615
+audio,Carrier handover to customer delivery,346,2,174.6688888889,335.0014583333,551.99375
+audio,Purchase to customer delivery,346,2,258.7141666667,408.3469444444,638.4590277778
+auto,Purchase to approval,3886,0,0.3497222222,14.9366666667,34.4097222222
+auto,Approval to carrier handover,3786,100,37.3433333333,74.0344444444,121.1168055556
+auto,Carrier handover to customer delivery,3800,86,169.695,289.9377777778,453.0995277778
+auto,Purchase to customer delivery,3801,85,233.6680555556,361.0894444444,540.1738888889
+baby,Purchase to approval,2874,0,0.3369444444,13.7186111111,33.6882222222
+baby,Approval to carrier handover,2795,79,42.4705555556,84.9384722222,155.489
+baby,Carrier handover to customer delivery,2800,74,170.6656944444,286.2401388889,457.1075277778
+baby,Purchase to customer delivery,2800,74,241.1668055556,380.3602083333,576.2705833333
+bed_bath_table,Purchase to approval,9411,1,0.3255555556,10.8693055556,32.5694444444
+bed_bath_table,Approval to carrier handover,9236,176,45.6926388889,86.1692361111,136.6709722222
+bed_bath_table,Carrier handover to customer delivery,9264,148,176.0183333333,303.6764583333,472.7667222222
+bed_bath_table,Purchase to customer delivery,9267,145,257.0675,386.5475,558.5855555556
+books_general_interest,Purchase to approval,511,0,0.3638888889,16.2465277778,38.9838888889
+books_general_interest,Approval to carrier handover,489,22,44.4219444444,76.1619444444,138.6960555556
+books_general_interest,Carrier handover to customer delivery,495,16,164.3713888889,259.6352777778,409.4004444444
+books_general_interest,Purchase to customer delivery,495,16,230.7744444444,340.8788888889,510.3190555556
+books_imported,Purchase to approval,53,0,0.3430555556,6.6152777778,26.3796111111
+books_imported,Approval to carrier handover,49,4,21.6105555556,76.5166666667,156.3796111111
+books_imported,Carrier handover to customer delivery,50,3,79.3540277778,185.3031944444,293.36
+books_imported,Purchase to customer delivery,50,3,152.3901388889,270.9960416667,337.6071944444
+books_technical,Purchase to approval,259,0,0.555,18.7501388889,36.3769444444
+books_technical,Approval to carrier handover,250,9,44.9123611111,75.3233333333,118.1496666667
+books_technical,Carrier handover to customer delivery,256,3,147.3433333333,240.3079861111,421.1954166667
+books_technical,Purchase to customer delivery,256,3,213.5422222222,321.3911111111,505.9394444444
+cds_dvds_musicals,Purchase to approval,12,0,0.6876388889,12.4702083333,25.0859166667
+cds_dvds_musicals,Approval to carrier handover,12,0,57.18375,63.9615277778,134.2712777778
+cds_dvds_musicals,Carrier handover to customer delivery,12,0,175.9626388889,243.7406944444,283.1797777778
+cds_dvds_musicals,Purchase to customer delivery,12,0,249.7581944444,292.8801388889,355.2216388889
+christmas_supplies,Purchase to approval,128,0,0.4866666667,15.3918055556,30.9047777778
+christmas_supplies,Approval to carrier handover,124,4,51.4790277778,99.0391666667,157.3798055556
+christmas_supplies,Carrier handover to customer delivery,125,3,211.0861111111,360.7530555556,526.3362777778
+christmas_supplies,Purchase to customer delivery,125,3,313.8702777778,439.4925,593.5470555556
+cine_photo,Purchase to approval,65,0,0.4266666667,33.65,51.0763888889
+cine_photo,Approval to carrier handover,59,6,23.4108333333,54.1388888889,105.4952777778
+cine_photo,Carrier handover to customer delivery,63,2,153.2791666667,279.3254166667,441.3758888889
+cine_photo,Purchase to customer delivery,63,2,205.5388888889,343.2372222222,519.0053333333
+computers,Purchase to approval,181,0,0.3505555556,24.0941666667,42.6719444444
+computers,Approval to carrier handover,180,1,51.5116666667,95.3188194444,131.8278611111
+computers,Carrier handover to customer delivery,177,4,188.4322222222,288.2638888889,465.6076666667
+computers,Purchase to customer delivery,177,4,268.0636111111,383.3897222222,546.5734444444
+computers_accessories,Purchase to approval,6671,0,0.3977777778,16.5945833333,36.3813888889
+computers_accessories,Approval to carrier handover,6516,155,46.5926388889,93.3947222222,168.02375
+computers_accessories,Carrier handover to customer delivery,6515,156,174.6672222222,296.0538888889,449.7951111111
+computers_accessories,Purchase to customer delivery,6517,154,266.37,392.1736111111,562.0561666667
+consoles_games,Purchase to approval,1052,0,0.3405555556,15.1635416667,36.1161111111
+consoles_games,Approval to carrier handover,1005,47,49.8702777778,105.3611111111,183.4201666667
+consoles_games,Carrier handover to customer delivery,1010,42,172.7759722222,292.903125,464.7845
+consoles_games,Purchase to customer delivery,1011,41,269.6683333333,406.4225,589.2888888889
+construction_tools_construction,Purchase to approval,748,0,0.3869444444,14.3770138889,36.1576388889
+construction_tools_construction,Approval to carrier handover,722,26,28.6273611111,61.8653472222,99.1995
+construction_tools_construction,Carrier handover to customer delivery,736,12,153.4505555556,258.8686111111,382.4891666667
+construction_tools_construction,Purchase to customer delivery,736,12,208.7176388889,324.41375,460.5415277778
+construction_tools_lights,Purchase to approval,244,0,0.4120833333,20.4914583333,36.4943055556
+construction_tools_lights,Approval to carrier handover,239,5,48.7519444444,78.7320833333,138.008
+construction_tools_lights,Carrier handover to customer delivery,242,2,137.5430555556,193.6650694444,333.1381944444
+construction_tools_lights,Purchase to customer delivery,242,2,197.4175,294.2483333333,454.8841388889
+construction_tools_safety,Purchase to approval,166,1,0.3852777778,11.6392361111,34.3343055556
+construction_tools_safety,Approval to carrier handover,154,13,40.9479166667,81.2076388889,169.8301666667
+construction_tools_safety,Carrier handover to customer delivery,159,8,157.9952777778,292.0697222222,397.1172777778
+construction_tools_safety,Purchase to customer delivery,159,8,223.9825,389.4241666667,495.1350555556
+cool_stuff,Purchase to approval,3621,3,0.3152777778,15.18,34.7552777778
+cool_stuff,Approval to carrier handover,3557,67,39.3463888889,75.3725,123.804
+cool_stuff,Carrier handover to customer delivery,3551,73,175.3872222222,289.7036111111,439.5038888889
+cool_stuff,Purchase to customer delivery,3552,72,249.5338888889,361.7140972222,526.4108333333
+costruction_tools_garden,Purchase to approval,194,0,0.3272222222,13.9466666667,35.4194166667
+costruction_tools_garden,Approval to carrier handover,185,9,44.6025,81.185,153.1533333333
+costruction_tools_garden,Carrier handover to customer delivery,189,5,175.8027777778,282.5011111111,437.0226666667
+costruction_tools_garden,Purchase to customer delivery,190,4,245.9398611111,358.6741666667,536.3292222222
+costruction_tools_tools,Purchase to approval,97,0,0.3244444444,10.7880555556,28.2993333333
+costruction_tools_tools,Approval to carrier handover,97,0,44.3602777778,87.7247222222,125.6785
+costruction_tools_tools,Carrier handover to customer delivery,97,0,188.5197222222,292.835,427.9355555556
+costruction_tools_tools,Purchase to customer delivery,97,0,261.6586111111,359.1411111111,501.8335
+diapers_and_hygiene,Purchase to approval,26,0,0.4548611111,14.7833333333,29.7729166667
+diapers_and_hygiene,Approval to carrier handover,25,1,56.1472222222,91.4563888889,134.5997777778
+diapers_and_hygiene,Carrier handover to customer delivery,24,2,134.5981944444,185.0600694444,268.7079722222
+diapers_and_hygiene,Purchase to customer delivery,24,2,214.5302777778,281.4420833333,354.7061944444
+drinks,Purchase to approval,297,0,0.34,2.8261111111,28.0711111111
+drinks,Approval to carrier handover,284,13,50.3113888889,82.4057638889,140.8124722222
+drinks,Carrier handover to customer delivery,287,10,123.0577777778,209.6918055556,388.9843888889
+drinks,Purchase to customer delivery,287,10,190.0163888889,308.3168055556,483.8545555556
+dvds_blu_ray,Purchase to approval,59,0,0.3038888889,11.5623611111,37.1397222222
+dvds_blu_ray,Approval to carrier handover,57,2,46.4361111111,90.8722222222,125.3547777778
+dvds_blu_ray,Carrier handover to customer delivery,56,3,211.5466666667,274.36125,436.2458333333
+dvds_blu_ray,Purchase to customer delivery,56,3,284.8108333333,358.0334722222,532.055
+electronics,Purchase to approval,2548,0,0.38625,15.5425,34.3088611111
+electronics,Approval to carrier handover,2507,41,39.0666666667,75.0055555556,119.5987222222
+electronics,Carrier handover to customer delivery,2515,33,192.6166666667,322.0188888889,494.1902222222
+electronics,Purchase to customer delivery,2516,32,263.8206944444,395.9478472222,570.3131944444
+fashio_female_clothing,Purchase to approval,38,0,0.2697222222,15.7417361111,32.35425
+fashio_female_clothing,Approval to carrier handover,36,2,69.2536111111,124.4834027778,211.8198611111
+fashio_female_clothing,Carrier handover to customer delivery,35,3,143.5297222222,294.3779166667,467.8696111111
+fashio_female_clothing,Purchase to customer delivery,35,3,258.5266666667,389.9786111111,579.6564444444
+fashion_bags_accessories,Purchase to approval,1855,0,0.3338888889,14.4616666667,33.973
+fashion_bags_accessories,Approval to carrier handover,1813,42,31.7319444444,70.6188888889,112.0083333333
+fashion_bags_accessories,Carrier handover to customer delivery,1812,43,164.2630555556,263.4624305556,423.2664166667
+fashion_bags_accessories,Purchase to customer delivery,1812,43,216.0131944444,333.4715277778,502.9013333333
+fashion_childrens_clothes,Purchase to approval,8,0,0.9981944444,22.5696527778,43.7670277778
+fashion_childrens_clothes,Approval to carrier handover,7,1,22.5483333333,35.4026388889,64.0181666667
+fashion_childrens_clothes,Carrier handover to customer delivery,7,1,118.3283333333,157.5218055556,358.6415
+fashion_childrens_clothes,Purchase to customer delivery,7,1,154.5677777778,193.25375,403.3126111111
+fashion_male_clothing,Purchase to approval,111,0,0.2591666667,3.9645833333,23.9738888889
+fashion_male_clothing,Approval to carrier handover,106,5,65.2802777778,141.0413888889,199.0025
+fashion_male_clothing,Carrier handover to customer delivery,105,6,170.5480555556,261.0811111111,364.2283888889
+fashion_male_clothing,Purchase to customer delivery,105,6,267.0436111111,358.3369444444,510.7737777778
+fashion_shoes,Purchase to approval,239,0,0.2575,1.6893055556,27.2827777778
+fashion_shoes,Approval to carrier handover,236,3,98.8606944444,164.7330555556,261.94875
+fashion_shoes,Carrier handover to customer delivery,234,5,192.9344444444,283.8370833333,440.55275
+fashion_shoes,Purchase to customer delivery,234,5,338.4173611111,448.5975,641.8895555556
+fashion_sport,Purchase to approval,27,0,0.6155555556,12.5325,34.8162222222
+fashion_sport,Approval to carrier handover,26,1,24.8180555556,57.9103472222,132.4930555556
+fashion_sport,Carrier handover to customer delivery,26,1,172.1540277778,234.5460416667,385.1601388889
+fashion_sport,Purchase to customer delivery,26,1,229.4291666667,370.2049305556,485.2113888889
+fashion_underwear_beach,Purchase to approval,121,0,0.3166666667,14.5561111111,31.3744444444
+fashion_underwear_beach,Approval to carrier handover,120,1,56.34875,122.0078472222,204.8658333333
+fashion_underwear_beach,Carrier handover to customer delivery,117,4,168.6619444444,304.8533333333,486.2729444444
+fashion_underwear_beach,Purchase to customer delivery,117,4,268.0772222222,444.0438888889,656.5636111111
+fixed_telephony,Purchase to approval,212,0,0.3202777778,16.5724305556,37.1094444444
+fixed_telephony,Approval to carrier handover,208,4,53.6719444444,93.06375,164.7855833333
+fixed_telephony,Carrier handover to customer delivery,207,5,162.0336111111,265.6456944444,409.0768888889
+fixed_telephony,Purchase to customer delivery,207,5,258.3938888889,385.8918055556,524.4286111111
+flowers,Purchase to approval,29,0,0.5247222222,11.6052777778,27.7014444444
+flowers,Approval to carrier handover,29,0,51.9505555556,97.8263888889,129.8656666667
+flowers,Carrier handover to customer delivery,29,0,166.0038888889,217.8461111111,367.4395555556
+flowers,Purchase to customer delivery,29,0,234.2019444444,338.2577777778,434.3951666667
+food,Purchase to approval,449,0,0.3286111111,11.6933333333,31.5669444444
+food,Approval to carrier handover,436,13,23.8788888889,51.2771527778,84.7811111111
+food,Carrier handover to customer delivery,440,9,123.5444444444,224.9600694444,371.55675
+food,Purchase to customer delivery,440,9,170.9254166667,282.8097916667,443.1736944444
+food_drink,Purchase to approval,227,0,0.3080555556,12.2888888889,32.9086666667
+food_drink,Approval to carrier handover,221,6,50.1911111111,83.9227777778,128.0483333333
+food_drink,Carrier handover to customer delivery,221,6,142.4608333333,237.4586111111,386.0325
+food_drink,Purchase to customer delivery,221,6,210.7927777778,316.8219444444,480.3797222222
+furniture_bedroom,Purchase to approval,95,0,0.3580555556,18.2826388889,37.2761666667
+furniture_bedroom,Approval to carrier handover,92,3,74.7995833333,120.0205555556,169.4522777778
+furniture_bedroom,Carrier handover to customer delivery,90,5,151.4709722222,291.2565277778,431.4706666667
+furniture_bedroom,Purchase to customer delivery,90,5,271.1163888889,413.5833333333,582.1071111111
+furniture_decor,Purchase to approval,6394,3,0.3359722222,15.45,36.8755833333
+furniture_decor,Approval to carrier handover,6267,130,52.1483333333,98.0970833333,158.3493888889
+furniture_decor,Carrier handover to customer delivery,6251,146,169.9369444444,291.4372222222,453.0394444444
+furniture_decor,Purchase to customer delivery,6258,139,260.4219444444,387.9888888889,556.1005555556
+furniture_living_room,Purchase to approval,422,0,0.3422222222,14.9413194444,33.03675
+furniture_living_room,Approval to carrier handover,414,8,52.9773611111,101.4129861111,175.7845
+furniture_living_room,Carrier handover to customer delivery,414,8,186.11125,307.9710416667,439.6098055556
+furniture_living_room,Purchase to customer delivery,414,8,288.3197222222,409.6113888889,559.1546388889
+furniture_mattress_and_upholstery,Purchase to approval,38,0,0.3408333333,2.2736111111,29.7816111111
+furniture_mattress_and_upholstery,Approval to carrier handover,37,1,46.555,86.2055555556,128.3263888889
+furniture_mattress_and_upholstery,Carrier handover to customer delivery,37,1,156.0141666667,313.4536111111,618.9073888889
+furniture_mattress_and_upholstery,Purchase to customer delivery,37,1,227.7313888889,412.4508333333,699.9857222222
+garden_tools,Purchase to approval,3512,1,0.3720833333,16.4988888889,37.4355
+garden_tools,Approval to carrier handover,3436,77,49.5961111111,91.1960416667,132.80375
+garden_tools,Carrier handover to customer delivery,3442,71,195.05,317.4936805556,480.3006111111
+garden_tools,Purchase to customer delivery,3443,70,279.6641666667,402.5484722222,563.7262777778
+health_beauty,Purchase to approval,8791,0,0.3527777778,15.3705555556,34.5091666667
+health_beauty,Approval to carrier handover,8573,218,41.3436111111,79.4555555556,136.9791111111
+health_beauty,Carrier handover to customer delivery,8609,182,166.6177777778,276.5405555556,453.3492222222
+health_beauty,Purchase to customer delivery,8611,180,228.3769444444,359.4995833333,555.2586111111
+home_appliances,Purchase to approval,764,0,0.3413888889,10.3104861111,30.5306666667
+home_appliances,Approval to carrier handover,746,18,43.1541666667,77.3188888889,119.9030555556
+home_appliances,Carrier handover to customer delivery,747,17,161.0152777778,263.3102777778,391.1462222222
+home_appliances,Purchase to customer delivery,747,17,225.8827777778,339.7383333333,505.924
+home_appliances_2,Purchase to approval,234,0,0.3904166667,19.410625,36.0979166667
+home_appliances_2,Approval to carrier handover,226,8,76.4318055556,134.779375,216.1180555556
+home_appliances_2,Carrier handover to customer delivery,227,7,166.2455555556,249.6469444444,391.2181111111
+home_appliances_2,Purchase to customer delivery,227,7,264.4227777778,391.9279166667,553.1815
+home_comfort_2,Purchase to approval,24,0,0.2475,3.1259722222,51.4555555556
+home_comfort_2,Approval to carrier handover,24,0,27.5519444444,61.6660416667,84.2723333333
+home_comfort_2,Carrier handover to customer delivery,24,0,217.2881944444,342.6024305556,635.6968055556
+home_comfort_2,Purchase to customer delivery,24,0,275.2409722222,411.4018055556,709.9640555556
+home_confort,Purchase to approval,397,0,0.3227777778,13.3888888889,33.287
+home_confort,Approval to carrier handover,392,5,43.9398611111,81.7570833333,119.45325
+home_confort,Carrier handover to customer delivery,390,7,193.2826388889,316.3692361111,476.2032222222
+home_confort,Purchase to customer delivery,392,5,274.7420833333,383.3093055556,554.3400833333
+home_construction,Purchase to approval,490,0,0.3481944444,10.1370138889,33.6687777778
+home_construction,Approval to carrier handover,478,12,69.6222222222,151.7175694444,241.4782222222
+home_construction,Carrier handover to customer delivery,483,7,165.7580555556,273.5477777778,422.4331111111
+home_construction,Purchase to customer delivery,483,7,274.8672222222,400.4133333333,538.4112222222
+housewares,Purchase to approval,5875,0,0.3322222222,12.3529166667,33.2659444444
+housewares,Approval to carrier handover,5707,168,41.8513888889,82.35375,141.2525555556
+housewares,Carrier handover to customer delivery,5731,144,149.3777777778,244.2472222222,383.3683333333
+housewares,Purchase to customer delivery,5734,141,214.0883333333,334.1839583333,485.8496111111
+industry_commerce_and_business,Purchase to approval,232,0,0.3802777778,15.1791666667,33.5142222222
+industry_commerce_and_business,Approval to carrier handover,223,9,38.0805555556,80.4693055556,120.0759444444
+industry_commerce_and_business,Carrier handover to customer delivery,228,4,152.5309722222,239.3996527778,394.7267222222
+industry_commerce_and_business,Purchase to customer delivery,228,4,201.3461111111,323.2229861111,482.8605
+kitchen_dining_laundry_garden_furniture,Purchase to approval,247,0,0.32,12.8765277778,37.1788333333
+kitchen_dining_laundry_garden_furniture,Approval to carrier handover,237,10,51.0461111111,97.7222222222,158.3506111111
+kitchen_dining_laundry_garden_furniture,Carrier handover to customer delivery,241,6,162.9408333333,264.4252777778,404.7141666667
+kitchen_dining_laundry_garden_furniture,Purchase to customer delivery,241,6,222.8186111111,372.4266666667,547.1911111111
+la_cuisine,Purchase to approval,13,0,0.2475,0.6263888889,18.2761666667
+la_cuisine,Approval to carrier handover,13,0,27.3088888889,46.9363888889,47.8137777778
+la_cuisine,Carrier handover to customer delivery,13,0,146.8283333333,178.6186111111,190.1298333333
+la_cuisine,Purchase to customer delivery,13,0,198.6961111111,212.7047222222,231.6432222222
+luggage_accessories,Purchase to approval,1034,0,0.2929166667,4.4086111111,30.9758055556
+luggage_accessories,Approval to carrier handover,1012,22,25.7745833333,52.8121527778,89.1629166667
+luggage_accessories,Carrier handover to customer delivery,1019,15,169.4047222222,282.8131944444,405.1851111111
+luggage_accessories,Purchase to customer delivery,1019,15,216.8880555556,333.2020833333,459.6641666667
+market_place,Purchase to approval,273,0,0.3233333333,19.0222222222,34.3221666667
+market_place,Approval to carrier handover,269,4,53.7983333333,106.7702777778,147.7012777778
+market_place,Carrier handover to customer delivery,268,5,166.3829166667,244.9615277778,459.0976388889
+market_place,Purchase to customer delivery,269,4,248.4422222222,348.4119444444,547.0714444444
+music,Purchase to approval,38,0,0.4419444444,23.6852777778,37.0554166667
+music,Approval to carrier handover,38,0,42.3427777778,75.2927083333,119.0941388889
+music,Carrier handover to customer delivery,38,0,152.905,251.6229861111,340.49675
+music,Purchase to customer delivery,38,0,229.2265277778,331.1727777778,428.75
+musical_instruments,Purchase to approval,628,0,0.4884722222,23.8438888889,39.2111388889
+musical_instruments,Approval to carrier handover,609,19,47.3436111111,90.5244444444,137.4107222222
+musical_instruments,Carrier handover to customer delivery,611,17,171.7661111111,294.7443055556,482.1911111111
+musical_instruments,Purchase to customer delivery,611,17,249.1591666667,391.8473611111,599.7977777778
+office_furniture,Purchase to approval,1267,0,0.3725,23.9113888889,39.6432777778
+office_furniture,Approval to carrier handover,1253,14,230.2480555556,326.1872222222,403.0173888889
+office_furniture,Carrier handover to customer delivery,1247,20,170.0491666667,311.6820833333,490.5418333333
+office_furniture,Purchase to customer delivery,1248,19,451.8727777778,596.8215277778,798.6575555556
+party_supplies,Purchase to approval,39,0,0.4627777778,21.8556944444,36.4335
+party_supplies,Approval to carrier handover,39,0,31.8697222222,64.4998611111,82.9921111111
+party_supplies,Carrier handover to customer delivery,38,1,137.0308333333,189.646875,373.4299166667
+party_supplies,Purchase to customer delivery,38,1,182.1391666667,253.2957638889,447.9405
+pc_gamer,Purchase to approval,8,0,0.4723611111,14.0542361111,42.1168611111
+pc_gamer,Approval to carrier handover,7,1,35.7975,55.9698611111,95.8855555556
+pc_gamer,Carrier handover to customer delivery,7,1,175.0516666667,247.9563888889,298.5643333333
+pc_gamer,Purchase to customer delivery,7,1,255.7775,312.5323611111,378.5238333333
+perfumery,Purchase to approval,3132,0,0.3256944444,10.9365972222,32.4563888889
+perfumery,Approval to carrier handover,3056,76,40.7054166667,75.1072222222,122.8138888889
+perfumery,Carrier handover to customer delivery,3060,72,167.0143055556,273.0031944444,438.5439722222
+perfumery,Purchase to customer delivery,3060,72,225.8980555556,355.0845138889,530.6178611111
+pet_shop,Purchase to approval,1706,0,0.3325,8.4025694444,31.7565277778
+pet_shop,Approval to carrier handover,1672,34,45.3152777778,91.4125694444,148.8817222222
+pet_shop,Carrier handover to customer delivery,1682,24,154.2377777778,259.4548611111,388.1475277778
+pet_shop,Purchase to customer delivery,1684,22,228.6297222222,341.7904166667,483.5257777778
+portateis_cozinha_e_preparadores_de_alimentos,Purchase to approval,14,0,0.3090277778,9.9164583333,41.6085
+portateis_cozinha_e_preparadores_de_alimentos,Approval to carrier handover,13,1,19.8797222222,56.6955555556,70.0663888889
+portateis_cozinha_e_preparadores_de_alimentos,Carrier handover to customer delivery,13,1,149.1991666667,212.5252777778,289.6768333333
+portateis_cozinha_e_preparadores_de_alimentos,Purchase to customer delivery,13,1,173.9566666667,273.2377777778,312.5493888889
+security_and_services,Purchase to approval,2,0,17.7286111111,26.4822222222,31.7343888889
+security_and_services,Approval to carrier handover,2,0,21.9520833333,24.786875,26.48775
+security_and_services,Carrier handover to customer delivery,2,0,323.635,378.5211111111,411.4527777778
+security_and_services,Purchase to customer delivery,2,0,363.3156944444,412.2829861111,441.6633611111
+signaling_and_security,Purchase to approval,140,0,0.5216666667,22.9740277778,41.8621666667
+signaling_and_security,Approval to carrier handover,135,5,36.6697222222,82.4016666667,136.0565555556
+signaling_and_security,Carrier handover to customer delivery,138,2,141.0470833333,242.6680555556,369.6438611111
+signaling_and_security,Purchase to customer delivery,138,2,203.0331944444,330.1548611111,466.7516944444
+small_appliances,Purchase to approval,629,1,0.3422222222,12.6519444444,29.2046111111
+small_appliances,Approval to carrier handover,603,27,34.8311111111,71.7797222222,125.2262222222
+small_appliances,Carrier handover to customer delivery,609,21,154.5438888889,256.3375,401.6133333333
+small_appliances,Purchase to customer delivery,609,21,215.4175,326.6577777778,476.805
+small_appliances_home_oven_and_coffee,Purchase to approval,75,0,0.7183333333,15.7723611111,30.2481111111
+small_appliances_home_oven_and_coffee,Approval to carrier handover,72,3,44.3836111111,83.3105555556,128.6106944444
+small_appliances_home_oven_and_coffee,Carrier handover to customer delivery,72,3,128.3380555556,202.7649305556,387.5369444444
+small_appliances_home_oven_and_coffee,Purchase to customer delivery,72,3,185.9823611111,270.9315277778,478.7933888889
+sports_leisure,Purchase to approval,7699,2,0.3341666667,12.9368055556,32.8495
+sports_leisure,Approval to carrier handover,7529,172,36.6294444444,73.2825,121.816
+sports_leisure,Carrier handover to customer delivery,7510,191,172.2284722222,291.4350694444,457.5407777778
+sports_leisure,Purchase to customer delivery,7512,189,242.3988888889,364.2393055556,533.7503333333
+stationery,Purchase to approval,2311,0,0.3141666667,9.6577777778,31.2763888889
+stationery,Approval to carrier handover,2261,50,49.6177777778,98.7438888889,141.85
+stationery,Carrier handover to customer delivery,2264,47,170.2658333333,304.7102083333,484.6285833333
+stationery,Purchase to customer delivery,2264,47,244.4509722222,384.7930555556,570.6126666667
+tablets_printing_image,Purchase to approval,79,0,0.3591666667,10.5106944444,29.2391666667
+tablets_printing_image,Approval to carrier handover,79,0,68.445,94.3936111111,167.9623888889
+tablets_printing_image,Carrier handover to customer delivery,79,0,190.7827777778,308.6445833333,442.729
+tablets_printing_image,Purchase to customer delivery,79,0,283.4580555556,358.2893055556,531.2207777778
+telephony,Purchase to approval,4188,1,0.3822222222,20.1075694444,38.1309722222
+telephony,Approval to carrier handover,4095,94,55.7436111111,98.6938888889,144.0607777778
+telephony,Carrier handover to customer delivery,4086,103,171.6443055556,305.2555555556,472.9584722222
+telephony,Purchase to customer delivery,4086,103,259.6430555556,392.7578472222,572.2013888889
+toys,Purchase to approval,3861,0,0.305,7.6205555556,31.6363888889
+toys,Approval to carrier handover,3757,104,36.2911111111,74.2702777778,126.4406111111
+toys,Carrier handover to customer delivery,3780,81,168.5056944444,267.4545138889,432.81125
+toys,Purchase to customer delivery,3781,80,225.2025,342.2336111111,513.1672222222
+unknown,Purchase to approval,1448,1,0.3070833333,13.5138194444,32.7865833333
+unknown,Approval to carrier handover,1405,44,51.1188888889,100.1544444444,157.3617222222
+unknown,Carrier handover to customer delivery,1389,60,169.2013888889,287.9641666667,450.1438333333
+unknown,Purchase to customer delivery,1390,59,254.8761111111,381.9722916667,561.1186666667
+watches_gifts,Purchase to approval,5619,0,0.3394444444,13.7211111111,33.8959444444
+watches_gifts,Approval to carrier handover,5468,151,40.6170833333,74.1809027778,123.9569722222
+watches_gifts,Carrier handover to customer delivery,5488,131,174.6651388889,307.5640277778,497.3036111111
+watches_gifts,Purchase to customer delivery,5489,130,247.9755555556,382.0075,582.9095
